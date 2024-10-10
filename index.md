@@ -1,6 +1,7 @@
 ---
 title: Índice
 layout: home
+nav_order:1
 ---
 
 # **COMO EMPEZAR A JUGAR A FIFA 25**.
