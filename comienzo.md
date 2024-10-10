@@ -1,6 +1,7 @@
 ---
 title : Modos Offline
 layout: home
+nav_order: 2
 ---
 
 # En este fifa como en los demás fifas tenemos varias modos de juego offline para jugar
@@ -14,3 +15,7 @@ En el modo carrera como jugador tu puedes crear tu propio jugador de la manera q
 
 ![modocarrera](https://i.ytimg.com/vi/taHkCXmyKj4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBa8aQMCEnEnCR_w3iIxXM3ua89FQ)
 ![modocarreramanager](https://i.ytimg.com/vi/LjylNvcL2EI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCVaQ-ErdOvf7MLg4VsfspK5zNSIg)
+
+Squad Battles:
+
+Este modo de juego de fifa 25 
