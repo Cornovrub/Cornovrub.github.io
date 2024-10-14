@@ -1,5 +1,5 @@
 ---
-title: Índice
+title: Modos Offline
 layout: home
 nav_order: 3
 ---
