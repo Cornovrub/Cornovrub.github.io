@@ -1,6 +1,6 @@
 ---
 title: Modos Online
-parent: Modos
+parent: Modosprincipales
 layout: home
 nav_order: 4
 ---
