@@ -15,3 +15,5 @@ Division Rivals: Aqui jugaremos contra otros jugadores de forma online, este mod
 
 
 El modo de juego más importante del fifa online es el  ** Fut Champions **. Este se juega todas las semanas de viernes a domingo. Para conseguir jugar este modo primero deberemos superar un clasificatorio de 10 partidos de los cuales mínimo se deben ganar 5. Se compone de 10 divisiones, siendo la primera division la mejor y la decima la peor, en este modo se obtienen las mayores recompensas de monedas,jugadores,sobres...
+
+![Fut Champions](https://fifauteam.com/wp-content/uploads/2024/02/1-1-1.webp)
