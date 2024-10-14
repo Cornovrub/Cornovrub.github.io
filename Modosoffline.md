@@ -1,6 +1,6 @@
 ---
 title : Modos Offline
-parent: Modos
+parent: Modosprincipales
 layout: home
 nav_order: 3
 ---
