@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# **COMO EMPEZAR A JUGAR A FIFA 25**.
+# **Como empezar a jugar fifa 25**.
 
 Fifa 25 es actualmente es juego más jugado y comprado, este juego se puede jugar tanto en playstation 5, playstation 4, xbox series s y x y en pc.
 
