@@ -1,8 +1,8 @@
 title: Página de Rubén
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-
-url: https://cornovrub.github.io/
 favicon : "https://github.com/Cornovrub/Cornovrub.github.io/blob/main/icon_545d38bfb117004ae24de9e42f58d476.ico"
+url: https://cornovrub.github.io/
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
