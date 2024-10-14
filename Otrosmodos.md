@@ -10,4 +10,6 @@ nav_order: 5
 
 ![Clubespro](https://i.ytimg.com/vi/MA6HCwcub_0/maxresdefault.jpg)
 
-**Partidas Cooperativas**: En las partidas cooperativas como su nombre indica requieren de que dos personas jueguen con el mismo equipo, cada jugador puede elegir al jugador del equipo que quiera .
+**Partidas Cooperativas**: En las partidas cooperativas como su nombre indica requieren de que dos jugadores jueguen con el mismo equipo contra otros dos jugadores con el mismo equipo.
+
+**amistosos con amigos**: Estos partidos consisten en jugar contra un amigo cada uno con un equipo ya existente como puede ser en barcelona,madrid... 
