@@ -4,7 +4,7 @@ layout: home
 nav_order: 3
 ---
 
-# ** Modos online en fifa 25**.
+# Modos online en fifa 25.
 
 Principalmente en el modo online en los fifas se juega ultimate team, en este modo de juego recibimos un equipo de cartas de bronce ( las peores cartas del juego ) y según vayamos avanzando en este mejoraremos el equipo con las monedas que conseguiremos jugando los diferentes modos de juego de Ultimate Team. A parte también podemos mejorar nuestro equipo tradeando jugadores ( comprando jugadores en el ,mercado online baratos y vendiéndolos por un precio mayor) y en los sobres de la tienda fifa que los conseguiremos cumpliento determinados objetivos , misiones o en las recompensas de los diferenntes modos de juego o comprándolos a través de nuestro dinero.
 
