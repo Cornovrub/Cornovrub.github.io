@@ -12,5 +12,5 @@ Este juego tiene un valor aproximado de salida de 70 euros aunque con el paso de
 
 Lo más importante es que este videojuego no es multiplataforma
 
-![ imagen fifa ](https://pbs.twimg.com/media/GSOBKYWW0AAhxHN.jpg)
+![ imagen fifa ](https://i.ytimg.com/vi/GcGJ4fe0iNk/maxresdefault.jpg)
 
