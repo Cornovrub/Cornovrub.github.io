@@ -1,6 +1,5 @@
 ---
-title: Modos Offline
-parent: Modos online
+title: Otros modos divertidos.
 layout: home
-nav_order: 3
+nav_order: 5
 ---
