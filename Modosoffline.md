@@ -7,7 +7,7 @@ nav_order: 3
 
 # En este fifa como en los demás fifas tenemos los modos carreras para jugar
 
-Modo carrera:
+**Modo carrera**:
 Dentro de este modo podemos jugar como entrenador o como jugador.
 
 Como entrenador podemos elegir un equipo real o crear nosotros mismos un equipo en una liga cualaquiera y empezar a competir por los títulos de las respectivas ligas. Al trabajar como entrenador los clubes en los que entrenas estes te proponen ciertos objetivos para cumplir como utilizar jugadores de la cantera, quedar en algún puesto específico en la liga local...
