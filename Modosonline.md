@@ -1,5 +1,5 @@
 ---
-title: Modos Offline
+title: Modos Online
 layout: home
 nav_order: 3
 ---
