@@ -1,5 +1,5 @@
 ---
-title : Modos Principales 
+title : Modosprincipales 
 layout: home
 nav_order: 2
 ---
