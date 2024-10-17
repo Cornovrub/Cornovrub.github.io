@@ -3,6 +3,11 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 favicon : "https://github.com/Cornovrub/Cornovrub.github.io/blob/main/icon_545d38bfb117004ae24de9e42f58d476.ico"
 url: https://cornovrub.github.io/
+nav_external_links:
+  - title: Otro repositorio
+    url: https://github.com/HKUDS/LightRAG
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
